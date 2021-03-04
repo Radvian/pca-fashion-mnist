@@ -1,4 +1,6 @@
 # pca-fashion-mnist
+https://colab.research.google.com/github/Radvian/pca-fashion-mnist/blob/main/PCA_Fashion_Mnist_Grady.ipynb
+
 An iPython notebook written and ran on Google Colab about conducting Decision Tree and PCA on Fashion MNIST dataset.
 
 This notebook aims to demonstrate that conducting data scaling and PCA before doing a classification algorithm can reduce our data dimensionality pretty substantially, which ends up speeding the training process, but without sacrificing a lot of information loss.

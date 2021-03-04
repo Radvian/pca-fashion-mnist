@@ -1,5 +1,4 @@
 # pca-fashion-mnist
-https://colab.research.google.com/github/Radvian/pca-fashion-mnist/blob/main/PCA_Fashion_Mnist_Grady.ipynb
 
 An iPython notebook written and ran on Google Colab about conducting Decision Tree and PCA on Fashion MNIST dataset.
 

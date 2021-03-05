@@ -6,3 +6,5 @@ This notebook aims to demonstrate that conducting data scaling and PCA before do
 
 As a baseline model, we train a Decision Tree model on the Fashion MNIST model - it reached 78% accuracy in 66 seconds.
 If we scale the data and do a PCA with 90% explained variance before training the Decision Tree model, it still reaches 76% accuracy, but in 45 seconds, and we reduce 82% of the number of feature columns.
+
+Disclaimer: this is not the best way to tackle the Fashion-Mnist dataset, as using a convolutional neural network can easily get our accuracy higher than 90%. 
